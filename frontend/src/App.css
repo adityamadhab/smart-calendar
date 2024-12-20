@@ -1,0 +1,16 @@
+.calendar-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.search-filter-container {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: rgb(243 244 246);
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+}
+
+/* Add any additional styles you need */
